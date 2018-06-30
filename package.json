@@ -1,0 +1,27 @@
+{
+  "name": "tickybot-clone",
+  "version": "1.0.0",
+  "description": "Tickybot Landing Page Clone by Toucans Team 11 | Chingu Voyage-6 | https://chingu.io/",
+  "main": "tickybot/index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "lint": "lint jshint **.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chingu-voyage6/toucans-team-11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chingu-voyage6/toucans-team-11/issues"
+  },
+  "homepage": "https://github.com/chingu-voyage6/toucans-team-11#readme",
+
+  "devDependencies": {
+    "jest": "^23.2.0",
+    "jshint": "^2.9.5",
+    "lite-server": "^2.4.0"
+  }
+}
