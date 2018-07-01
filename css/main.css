@@ -96,7 +96,41 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+   .site-header {
+    background-color: #40596b;
+}
 
+.container {
+    font-size: 1.25rem;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 1rem;
+    width: 100%;
+}
+
+.main-nav ul {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 1rem 0;
+    list-style: none;
+}
+
+li {
+    display: list-item;
+    text-align: inherit;
+}
+
+.main-nav li {
+   margin-right: 1rem; 
+}
+
+.main-nav a {
+    color: #ffd05a;
+    text-decoration: none;
+    padding-left: 1em;
+}
 
 
 

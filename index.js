@@ -1,7 +1,18 @@
 const MenuBar = () => (
-    <div className="menu-bar">
-        <p>Menu Bar Here</p>
-    </div>
+    <header class="site-header">
+        <nav class="main-nav">
+            <div class="container">
+                <ul>
+                    <li>
+                        <a href="#home">Home</a>
+                        <a href="#about">About</a>
+                        <a href="#features">Features</a>
+                        <a href="#slack">Add to Slack</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+  </header>
 )
 const HomepageHero = () => (
     <div className="homepage-hero">
