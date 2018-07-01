@@ -2,7 +2,7 @@
   "name": "tickybot-clone",
   "version": "1.0.0",
   "description": "Tickybot Landing Page Clone by Toucans Team 11 | Chingu Voyage-6 | https://chingu.io/",
-  "main": "tickybot/index.js",
+  "main": "index.js",
   "scripts": {
     "dev": "lite-server",
     "lint": "lint jshint **.js",
