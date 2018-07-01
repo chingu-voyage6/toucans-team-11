@@ -61,11 +61,10 @@ class TickybotLandingPage extends React.Component {
       );
     }
   }
-  
+
   // ========================================
-  
+
   ReactDOM.render(
     <TickybotLandingPage />,
     document.getElementById('root')
   );
-  
