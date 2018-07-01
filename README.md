@@ -1,2 +1,2 @@
 # toucans-team-11
-Add-project-description-here | Chingu Voyage-6 | https://chingu.io/
+Tickybot Clone by Toucans-Team-11 | Chingu Voyage-6 | https://chingu.io/
